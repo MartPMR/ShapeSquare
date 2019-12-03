@@ -16,3 +16,21 @@ C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquareTest\obj\Debug\ShapeSquare
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquareTest\obj\Debug\ShapeSquareTest.csproj.CopyComplete
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquareTest\obj\Debug\ShapeSquareTest.dll
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquareTest\obj\Debug\ShapeSquareTest.pdb
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ShapeSquareTest.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ShapeSquareTest.pdb
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ShapeSquare.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\ShapeSquare.pdb
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\obj\Debug\ShapeSquareTest.csprojAssemblyReference.cache
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\obj\Debug\ShapeSquareTest.csproj.CopyComplete
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\obj\Debug\ShapeSquareTest.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquareTest\obj\Debug\ShapeSquareTest.pdb

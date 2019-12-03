@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win10Pro\\source\\repos\\ShapeSquare\\ShapeSquare\\ShapeSquare.csproj": {}
+    "C:\\Users\\Win10Pro\\Desktop\\Новая папка (2)\\ShapeSquare\\ShapeSquare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win10Pro\\source\\repos\\ShapeSquare\\ShapeSquare\\ShapeSquare.csproj": {
+    "C:\\Users\\Win10Pro\\Desktop\\Новая папка (2)\\ShapeSquare\\ShapeSquare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win10Pro\\source\\repos\\ShapeSquare\\ShapeSquare\\ShapeSquare.csproj",
+        "projectUniqueName": "C:\\Users\\Win10Pro\\Desktop\\Новая папка (2)\\ShapeSquare\\ShapeSquare.csproj",
         "projectName": "ShapeSquare",
-        "projectPath": "C:\\Users\\Win10Pro\\source\\repos\\ShapeSquare\\ShapeSquare\\ShapeSquare.csproj",
+        "projectPath": "C:\\Users\\Win10Pro\\Desktop\\Новая папка (2)\\ShapeSquare\\ShapeSquare.csproj",
         "packagesPath": "C:\\Users\\Win10Pro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win10Pro\\source\\repos\\ShapeSquare\\ShapeSquare\\obj\\",
+        "outputPath": "C:\\Users\\Win10Pro\\Desktop\\Новая папка (2)\\ShapeSquare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

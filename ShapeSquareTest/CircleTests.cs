@@ -12,11 +12,11 @@ namespace ShapeSquareTest
         {
             //arrage
             double radius = 10;
-            double expected = 314.1593;
+            double expected = 314.159;
 
             //act
             Circle c  = new Circle(radius);
-            double actual = c.ShapeSquare();
+            double actual = Math.Round(c.ShapeSquare(), 3);
 
             //assert
             Assert.AreEqual(expected, actual);

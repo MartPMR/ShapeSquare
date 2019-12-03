@@ -6,3 +6,11 @@ C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquare\obj\Debug\netstandard2.0\
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.AssemblyInfo.cs
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.dll
 C:\Users\Win10Pro\source\repos\ShapeSquare\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.pdb
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\bin\Debug\netstandard2.0\ShapeSquare.deps.json
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\bin\Debug\netstandard2.0\ShapeSquare.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\bin\Debug\netstandard2.0\ShapeSquare.pdb
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.csprojAssemblyReference.cache
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.AssemblyInfoInputs.cache
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.AssemblyInfo.cs
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.dll
+C:\Users\Win10Pro\Desktop\Новая папка (2)\ShapeSquare\obj\Debug\netstandard2.0\ShapeSquare.pdb
